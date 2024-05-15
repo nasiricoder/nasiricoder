@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nasiricoder
+- 👋 Hi, I’m @vahid-nasiri
 - 👀 I’m interested in Python-(Django) Backend.
 - 🌱 I’m currently learning Python, Django, SQL, Git, Docker and other skills.
-- 📫 How to reach me nasiricoder@gmail.com
+- 📫 How to reach me: nasiricoder@gmail.com
 
 <!---
 nasiricoder/nasiricoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
