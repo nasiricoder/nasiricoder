@@ -2,9 +2,8 @@
 - 👀 I am interested in Backend development | Python | Django | Building Scalabel web applications.
 - 🌱 I have gained skill in Python, OOP, Django, DRF, SQL, Git, Docker, Celery, Redit, Linux, Pytest, Performance testing.
 - 📫 How to reach me:
-- E-mail: nasiricoder@gmail.com
+- E-mail: vahidncoder@gmail.com
 - LinkedIn: www.linkedin.com/in/vahid-nasiri-coder
-- Telegram: @nasiricoding
 
 
 
